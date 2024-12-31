@@ -9,7 +9,7 @@ This research project addresses the challenge of maintaining young learners' int
 
 ## 🎯 Research Objectives
 
-- Develop an AI-driven system for creating interactive and engaging learning experiences
+- Developing an AI-driven system for creating interactive and engaging learning experiences
 - Transform traditional teaching content into animated character-based lessons
 - Implement voice cloning technology for authentic character voicing
 - Create an interactive learning environment with real-time Q&A capabilities
